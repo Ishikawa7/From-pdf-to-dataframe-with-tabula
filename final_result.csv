@@ -1,0 +1,6 @@
+,Data_orario,Data,Negozio,Cassa,Operatore,Listino,Numero_transazione,Carta,Tavolo,Ospiti,Categoria_articolo,Nome_articolo,Quantity,Importo_lordo,IVA
+0,2022-12-11 13:08:00,2022-12-11,102 Acqua e Farina,1 Acqua e Farina - Cassa 1,10420 Safaa,102 Listino Acqua e Farina,9754,NO CARTA,VIO6,2,BEVERAGE-00004,Gasata 70cl,1.0,3.0,2.0
+1,2022-12-11 13:08:00,2022-12-11,102 Acqua e Farina,1 Acqua e Farina - Cassa 1,10420 Safaa,102 Listino Acqua e Farina,9754,NO CARTA,VIO6,2,COPERTO -00001,Coperto e Servizio,2.0,5.0,2.0
+2,2022-12-11 13:08:00,2022-12-11,102 Acqua e Farina,1 Acqua e Farina - Cassa 1,10420 Safaa,102 Listino Acqua e Farina,9754,NO CARTA,VIO6,2,CONTORNI-00001,Patatine Fritte,1.0,6.0,2.0
+3,2022-12-11 13:08:00,2022-12-11,102 Acqua e Farina,1 Acqua e Farina - Cassa 1,10420 Safaa,102 Listino Acqua e Farina,9754,NO CARTA,VIO6,2,PIZZE-00003,Biancaneve,2.0,14.0,2.0
+4,2022-12-11 13:08:00,2022-12-11,102 Acqua e Farina,1 Acqua e Farina - Cassa 1,10420 Safaa,102 Listino Acqua e Farina,9754,NO CARTA,VIO6,2,IMPASTPIZZA-0003,classico,2.0,0.0,2.0
